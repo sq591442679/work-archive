@@ -1,0 +1,3 @@
+容器模拟平台与路由协议镜像（含内核模块）源代码：https://github.com/sq591442679/distributed-emulator
+
+为适配路由协议而修改的Linux内核源代码：https://github.com/sq591442679/linux-6.8.7-sqsq
